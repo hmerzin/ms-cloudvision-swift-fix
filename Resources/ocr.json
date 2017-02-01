@@ -1,0 +1,151 @@
+{
+    "language": "en",
+    "textAngle": 0.0,
+    "orientation": "Up",
+    "regions": [
+                {
+                "boundingBox": "62,73,414,195",
+                "lines": [
+                          {
+                          "boundingBox": "184,73,281,57",
+                          "words": [
+                                    {
+                                    "boundingBox": "184,73,119,45",
+                                    "text": "Let's"
+                                    },
+                                    {
+                                    "boundingBox": "383,75,82,55",
+                                    "text": "get"
+                                    }
+                                    ]
+                          },
+                          {
+                          "boundingBox": "64,142,412,57",
+                          "words": [
+                                    {
+                                    "boundingBox": "64,142,236,57",
+                                    "text": "indenting"
+                                    },
+                                    {
+                                    "boundingBox": "382,142,94,45",
+                                    "text": "and"
+                                    }
+                                    ]
+                          },
+                          {
+                          "boundingBox": "62,212,300,56",
+                          "words": [
+                                    {
+                                    "boundingBox": "62,212,141,56",
+                                    "text": "going"
+                                    },
+                                    {
+                                    "boundingBox": "285,223,77,33",
+                                    "text": "on."
+                                    }
+                                    ]
+                          }
+                          ]
+                },
+                {
+                "boundingBox": "543,85,367,114",
+                "lines": [
+                          {
+                          "boundingBox": "543,85,143,33",
+                          "words": [
+                                    {
+                                    "boundingBox": "543,85,143,33",
+                                    "text": "some"
+                                    }
+                                    ]
+                          },
+                          {
+                          "boundingBox": "557,142,353,57",
+                          "words": [
+                                    {
+                                    "boundingBox": "557,142,353,57",
+                                    "text": "word-spacing"
+                                    }
+                                    ]
+                          }
+                          ]
+                },
+                {
+                "boundingBox": "60,356,865,363",
+                "lines": [
+                          {
+                          "boundingBox": "60,356,864,45",
+                          "words": [
+                                    {
+                                    "boundingBox": "60,356,127,45",
+                                    "text": "And"
+                                    },
+                                    {
+                                    "boundingBox": "268,356,130,45",
+                                    "text": "how"
+                                    },
+                                    {
+                                    "boundingBox": "474,356,196,45",
+                                    "text": "about"
+                                    },
+                                    {
+                                    "boundingBox": "746,368,178,33",
+                                    "text": "some"
+                                    }
+                                    ]
+                          },
+                          {
+                          "boundingBox": "64,458,536,57",
+                          "words": [
+                                    {
+                                    "boundingBox": "64,458,536,57",
+                                    "text": "letter-spacing,"
+                                    }
+                                    ]
+                          },
+                          {
+                          "boundingBox": "769,458,156,45",
+                          "words": [
+                                    {
+                                    "boundingBox": "769,458,156,45",
+                                    "text": "line-"
+                                    }
+                                    ]
+                          },
+                          {
+                          "boundingBox": "64,560,243,57",
+                          "words": [
+                                    {
+                                    "boundingBox": "64,560,243,57",
+                                    "text": "height,"
+                                    }
+                                    ]
+                          },
+                          {
+                          "boundingBox": "409,560,513,57",
+                          "words": [
+                                    {
+                                    "boundingBox": "409,560,118,45",
+                                    "text": "and"
+                                    },
+                                    {
+                                    "boundingBox": "624,560,298,57",
+                                    "text": "justified"
+                                    }
+                                    ]
+                          },
+                          {
+                          "boundingBox": "61,662,529,57",
+                          "words": [
+                                    {
+                                    "boundingBox": "61,662,529,57",
+                                    "text": "text-aligment?"
+                                    }
+                                    ]
+                          }
+                          ]
+                }
+                ]
+}
+
+
